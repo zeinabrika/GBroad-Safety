@@ -1,6 +1,6 @@
 # GBroad-Safety
 In 2017 around 24,831 injuries in road reported to police in UK. However, because of changes in system for reporting by police comparison of this figure should be interpreted with caution.
-This report provides the traffic accidents in Great Britain that were reported by the police in 2017. It includes number of accident severity in GB. 
+This project provides the traffic accidents in Great Britain that were reported by the police in 2017. It includes number of accident severity in GB. 
 The data and information used for statistics and collected by police force in different area in UK. 
 These files provide detailed data about the circumstances of injury road accidents in Great Britain, the types of vehicles involved and the consequential casualties. 
 The statistics relate only to personal injury accidents on public roads that are reported to the police, and subsequently recorded, using the STATS19 accident reporting form. 
